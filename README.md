@@ -33,9 +33,9 @@
 - [SI413:	Programming Languages, Fall 2020 (AY2021)](https://www.usna.edu/Users/cs/wcbrown/courses/F20SI413/)
 - [IC221 - Systems Programming, Spring 2010](https://www.usna.edu/Users/cs/wcbrown/courses/S10IC221/Calendar.html#April2010)
 
-# 
-- [Онлайн курсы тестировщиков программного обеспечения (2018)](https://www.portnov.com/ru-2018/)
-- [Открытый курс Software testing (2022)](https://youtube.com/playlist?list=PL7XXjge0nKZfUjvs_puLSXpkV-dBrihZu&si=sEk6VjVk9uaG9zVZ)
+# Portnov Computer School
+- [Open Course Software testing (2018)](https://www.portnov.com/ru-2018/)
+- [Open Course Software testing (2022)](https://youtube.com/playlist?list=PL7XXjge0nKZfUjvs_puLSXpkV-dBrihZu&si=sEk6VjVk9uaG9zVZ)
 
 # Test Automation University
 - [Learning Paths](https://testautomationu.applitools.com/learningpaths.html)
